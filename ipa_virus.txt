@@ -135,3 +135,43 @@ MBR: Master Boot Record
 Mailer
 メモリ常駐
 Memory Resident
+Partition
+パーティション
+PE
+ピーイー
+Portable Executable
+ポータブルエグゼクタブル
+Registry
+レジストリ
+Rich Text Format
+リッチテキスト形式
+Self Extraction File
+自己解凍ファイル
+Shared File
+共有ファイル
+Time Stamp
+タイムスタンプ
+Trojan Horse
+トロイの木馬
+Vaccine Soft
+ワクチンソフト
+Virus Hoax
+デマメール
+Volume
+Volume Label
+ボリューム
+ボリューム名
+ボリュームラベル
+Worm
+ワーム
+Write Protect
+ライトプロテクト
+Write Protect
+リッチテキスト形式
+Rich Text Format
+レジストリ
+Registry
+ワーム
+Worm
+ワクチンソフト
+Vaccine Soft
