@@ -1,0 +1,137 @@
+Anti-virus soft
+ウイルス対策ソフト
+Attachment
+添付ファイル
+BIOS
+バイオス
+Boot Record
+ブートレコード
+Boot Sector
+ブートセクタ
+Cluster
+クラスタ
+Command Prompt
+コマンドプロンプト
+Command Line
+コマンドライン
+Counter
+カウンタ
+Crash
+クラッシュ
+Cut&Paste
+カットアンドペースト
+Directory
+ディレクトリ
+DOS Boot-up Disk 
+DOS起動ディスク
+Download
+ダウンロード
+Extension
+拡張子
+FAT
+ファット
+File Allocation Table
+ファイルアロケーションテーブル
+File Attribute
+ファイル属性
+Format
+フォーマット・初期化
+Folder
+フォルダ
+Hangup
+ハングアップ
+Install
+インストール
+Macro
+マクロ
+Macro Virus
+マクロウイルス
+Mailer
+メーラー
+MBR
+エムビーアール
+Master Boot Record
+マスターブートレコード
+Memory Resident
+メモリ常駐
+Memory Resident Type
+常駐型
+インストール
+Install
+ウイルス対策ソフト
+Anti-virus soft
+カウンタ
+Counter
+拡張子
+Extension
+カットアンドペースト
+Cut&Paste
+共有ファイル
+Shared File
+切り取りと貼り付け
+Cut&Paste
+クラスタ
+Cluster
+クラッシュ
+Crash
+コマンドプロンプト
+Command Prompt
+コマンドライン
+Command Line
+自己解凍ファイル
+Self Extraction File
+常駐型
+Memory Resident Type
+タイムスタンプ
+Time Stamp
+ダウンロード
+Download
+ディレクトリ
+Derectry
+デマメール
+Virus Hoax
+添付ファイル
+Attachment
+ドス起動ディスク
+Dos Boot-up Disk
+トロイの木馬
+Trojan Horse
+パーティション
+Patation
+バイオス
+BIOS
+ハングアップ
+Hangup
+ピーイー
+PE
+ファイルアロケーションテーブル
+File Allocation Table
+ファイル属性
+File Attribute
+ファット
+FAT
+ブートセクタ
+Boot Sector
+ブートレコード
+Boot Record
+フォーマット
+Format
+フォルダ
+Folder
+ポ－タブルエグゼクタブル
+Portable Executable
+ボリューム
+ボリューム名
+ボリュームラベル
+Volume
+Volume Label
+マクロ
+Macro
+マクロウイルス
+MacroVirus
+マスターブートレコード
+MBR: Master Boot Record
+メーラー
+Mailer
+メモリ常駐
+Memory Resident

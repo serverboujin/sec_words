@@ -1,0 +1,277 @@
+Access Control
+アクセス制御
+アクセスコントロール
+Applicant
+申請者
+Asymmetric Cryptography
+公開鍵暗号技術
+Attribute Authority
+AA
+属性認証機関
+属性機関
+Attribute Certificate
+属性証明書
+Audit
+監査
+Authenticate
+Authentication
+認証
+本人認証
+Authority Revocation List
+ARL
+認証局失効リスト
+認証機関失効リスト
+Authorization
+認可
+Bridge CA
+BCA
+ブリッジCA
+ブリッジ認証局
+ブリッジ認証機関
+CA Domain
+CA ドメイン
+CA Policy Management
+CAポリシー管理
+CA Signing Key Pair
+CA 署名鍵ペア
+Certificate
+証明書
+公開鍵証明書
+Certificate Expiry
+証明書期限
+Certificate Policy
+CP
+証明書ポリシー
+Certificate Renewal
+証明書更新
+Certificate Revocation
+証明書失効
+Certificate Revocation List
+CRL
+証明書失効リスト
+失効リスト
+Certificate Service Provider
+CSP
+証明書発行サービス提供者
+Certification
+認証
+Certification Authority
+CA
+認証機関
+認証局
+Certification Practice Statement
+CPS
+認証実施規定
+認証局運営規定
+Compromise
+危殆化
+Confidentiality
+秘匿性
+守秘性
+CRL Distribution Points
+CRLDP
+CRL 配布点
+Cross Certificate
+横断証明書
+相互認証証明書
+Cross Certification
+横断認証
+相互認証
+Cryptography
+暗号技術
+Data Encryption Standard
+DES
+データ暗号標準
+Decryption
+Decrypt
+復号
+Delta CRL
+差分CRL
+Digital Certificate
+デジタル証明書
+Digital Signature
+デジタル署名
+Directory
+ディレクトリ
+Distinguished Name
+DN
+識別名
+Dual Key Pairs
+デュアル鍵ペア
+Electronic Signature
+電子署名
+Encryption
+暗号化
+Encryption Algorithm
+暗号化アルゴリズム
+Encryption Key Pair
+暗号鍵ペア
+End Entity
+エンドエンティティ
+Extension
+X.509 Field
+拡張フィールド
+拡張
+Federal Information Processing Standards
+FIPS
+商務省連邦情報処理規格
+Government PKI
+GPKI
+政府認証基盤
+Integrity
+完全性
+インテグリティ
+Internet Engineering Task Force
+IETF
+Issuer
+発行者
+Issuing Authority
+IA
+発行機関
+Key
+鍵
+Key Exchange
+鍵交換
+Key Generation Material Random Numbers
+鍵生成用乱数
+Key Management
+鍵管理
+Key Pairs
+鍵ペア
+Key Update
+鍵更新
+KeyUsage
+鍵使用目的
+Lightweight Directory Access Protocol
+LDAP
+MD5
+Message Authentication Code
+MAC
+メッセージ認証コード
+Mutual Authentication
+双方向認証
+National Institute Of Standards And Technology
+NIST
+Non-Repudiation
+否認防止
+Notarization
+Notary
+公証
+公証サービス
+Object Identifier
+OID
+オブジェクト識別子
+Online Certificate Status Protocol
+OCSP
+オンライン証明書状態プロトコル
+Pass Phrase
+パスフレーズ
+Peer-To-Peer Cross-Certification
+ピア・ツー・ピア相互認証
+Policy Management Authority
+ポリシー管理機関
+Policy Mapping
+X.509 Field
+ポリシーマッピング
+Pretty Good Privacy
+PGP
+Private Key
+プライベート鍵
+Proof Of Possession
+PoP
+プルーフ・オブ・ポゼッション
+所有証明
+Public Key
+公開鍵
+Public Key Certificate
+公開鍵証明書
+Public Key Cryptography
+公開鍵暗号技術
+Public Key Infrastructure
+PKI
+公開鍵基盤
+Qualified Certificate
+QC
+適格証明書
+クオリファイド証明書
+RA Policy Management
+RA ポリシー管理
+Referral
+参照
+リフェラル
+Registration Authority
+RA
+登録機関
+アール・エー
+登録局
+Relying Party
+信頼者
+証明書利用者
+署名検証者
+Repository
+リポジトリ
+格納庫
+Revocation
+失効
+Revoke A Certificate
+証明書の失効
+Root CA
+ルートCA
+Secure hash function
+セキュアハッシュ関数
+Secure Hash Algorithm
+SHA-1
+Secure Sockets Layer
+SSL
+Security Architecture For Internet Protocol
+IPsec
+Subject
+X.509 Field
+主体者
+所有者
+Subordinate CA
+下位CA
+Subscriber 
+加入者
+署名者
+被認証者
+Superior CA
+上位 CA
+Symmetric Cryptography
+共通鍵暗号
+対称暗号
+Symmetric Key
+対称鍵
+共通鍵
+Time Stamp Authority
+TSA
+タイムスタンプ機関
+Token
+トークン
+Top CA
+TCA
+トップ CA
+Transport Layer Security
+TLS
+トランスポート・レイヤー・セキュリティ
+Triple-DES
+トリプル DES
+Trusted Third Party
+TTP
+信頼組織
+Validation
+十分性検証
+検証
+有効性検証
+Validation Authority
+VA
+検証機関
+Validity
+X.509 Field
+有効期間
+Verification
+正確性検証
+検証
+Vulnerability
+脆弱性
+X.509
