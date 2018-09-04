@@ -1,0 +1,80 @@
+アノマリー検知
+ウィニー
+Winny
+キーロガー
+Key Logger
+サイバーテロ
+Cyber Terrorism
+サンドボックス
+Sandbox
+シーサート
+CSIRT
+Computer Security Incident Response Team
+情報セキュリティマネジメントシステム
+ISMS
+Information Security Management System
+情報漏えい防止
+DLP
+Data Loss Prevention
+スパイウェア
+脆弱性
+Vulnerability
+脆弱性診断
+Vulnerability Assessment
+セキュリティオペレーションセンター
+SOC
+Security Operation Center
+ゼロデイ脆弱性
+総合脅威管理システム
+UTM
+Unified Threat Management
+ソーシャルエンジニアリング
+デジタルフォレンジック
+Digital Forensics
+トーア
+Tor
+The Onion Router
+トロイの木馬
+ドライブバイダウンロード
+Drive-by-Download
+なりすまし
+二要素認証
+ネクストジェネレーションファイアウォール
+Next Generation Firewall
+ハクティビズム
+Hactivism
+バックドア
+Backdoor
+パスワードリスト攻撃　　
+標的型攻撃
+ヒューリスティック検知
+ファイアウォール
+Firewall
+フィッシング
+不正侵入検知システム
+IDS
+Intrusion Detection System
+ブルートフォースアタック
+総当たり攻撃
+ベーシック認証
+ペネトレーションテスト
+Penetration test
+マイナンバー
+マクロウイルス
+Macro Virus
+水飲み場攻撃
+ランサムウェア
+ワーム
+ワンタイムパスワード
+DDoS攻撃
+Dos攻撃
+JVN iPedia
+PCI DSS
+Payment Card Industry Data Security Standards
+SIEM
+Security Information and Event Management　
+SQLインジェクション
+SQL Injection
+Webアプリケーションファイアウォール
+WAF
+Web Application Firewall
