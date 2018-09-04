@@ -1,0 +1,329 @@
+access control 
+アクセス制御
+account
+アカウント
+Administrator
+anomaly detection
+アノマリ検出法
+anonymous FTP
+匿名 FTP
+APOP
+application gateway
+アプリケーションゲートウェイ
+attack
+攻撃, attacker
+攻撃者
+auditing tool
+監査ツール
+authentication
+認証
+本人認証
+authorization
+認可
+availability
+可用性
+backdoor
+バックドア
+裏口
+backup 
+バックアップ
+bastion host 
+要塞ホスト
+bounce attack
+バウンス攻撃
+brute force attack 
+ブルートフォース攻撃
+buffer overflow 
+バッファオーバーフロー
+buffer overrun 
+バッファオーバーラン
+CA 
+Certification Authority
+認証局
+認証機関
+certificate
+証明書
+CGI script 
+Common Gateway Interface スクリプト
+confidentiality
+守秘性
+cracker
+クラッカー
+cross site scripting vulnerability
+クロスサイトスクリプティング脆弱性
+CPS 
+Certification Practice Statement
+CSIRT 
+Computer Security Incident Response Team
+DDoS attack 
+Distributed Denial of Service attack
+分散型サービス妨害攻撃
+default account
+デフォルト アカウント
+dictionary attack 
+辞書攻撃
+digital signature
+デジタル署名
+DMZ 
+demilitarized zone
+DoS attack 
+Denial of Service attack
+サービス妨害攻撃
+exploit
+攻略
+行為
+攻略手段
+exposure
+露出
+false negative
+フォールス ネガティブ
+false positive
+フォールス ポジティブ
+finger
+firewall
+ファイアウォール
+fix
+フィックス
+FTP PASV 
+File Transfer Protocol PASV コマンド 
+guest account 
+ゲスト アカウント
+https
+IDS 
+Intrusion Detection System
+侵入検知システム
+IETF Security Area 
+Internet Engineering Task Force セキュリティエリア
+incident 
+インシデント
+incident response 
+インシデント対応
+integrity
+完全性
+intrusion
+侵入
+侵害, intruder
+侵入者
+IP spoofing 
+IP スプーフィング
+IP spoofing attack 
+IP スプーフィング攻撃
+IRT 
+Incident Response Team 
+インシデント対応チーム
+Java 2 Platform security
+Kerberos
+logging
+ロギング
+mail bombing
+メール爆撃
+misuse Detection
+ミスユース検出法
+Nessus
+OpenSSH
+OpenSSL
+OpenPGP
+OTP
+One Time Password
+packet filtering
+パケットフィルタリング
+PAM 
+Pluggable Authentication Modules
+プラグ可能認証モジュール
+pass phrase
+パスフレーズ
+password cracking 
+パスワード解析
+patch
+パッチ
+penetration test
+侵入テスト
+personal firewall 
+パーソナルファイアウォール
+PGP 
+Pretty Good Privacy
+PIN 
+Personal Identification Number
+個人識別番号
+PKI 
+Public Key Infrastructure
+公開鍵インフラストラクチャ
+POC 
+Point Of Contact
+連絡窓口
+POP3 APOP 
+Post Office Protocol v3 APOP コマンド
+POP3 AUTH 
+Post Office Protocol v3 AUTH コマンド
+port scan 
+ポートスキャン、スキャン
+probe 
+プローブ、探査
+proxy server 
+プロキシサーバー
+qmail
+risk
+リスク
+root
+ルート
+security hole
+セキュリティホール
+sendmail
+sequence number guessing 
+シーケンス番号推測
+S/MIME 
+Secure/MIME
+SMTP AUTH
+Smurf attack 
+スマーフ攻撃
+social engineering 
+ソーシャル エンジニアリング
+spam 
+スパム
+SSH 
+Secure Shell
+SSL 
+Secure Socket Layer
+SYN flood attack 
+SYN フラッド攻撃
+syslog
+TCP Wrapper
+threat
+脅威
+TLS 
+Transport Layer Security
+Tripwire
+Trojan horse 
+トロイの木馬
+UBE
+Unsolicited Bulk Email
+virus
+ウイルス
+VPN 
+Virtual Private Network
+バーチャルプライベートネットワーク
+vulnerability
+脆弱性
+worm
+ワーム
+xinetd
+X.509
+アカウント
+account
+アクセス制御
+access control
+アノマリ検出法
+anomaly detection
+アプリケーションゲートウェイ
+application gateway
+インシデント
+incident
+インシデント対応
+incident response
+ウイルス
+virus
+裏口
+backdoor
+可用性
+availability
+完全性
+integrity
+クラッカー
+cracker
+クロスサイトスクリプティング脆弱性
+cross site scripting vulnerability
+公開鍵インフラストラクチャ
+PKI
+攻撃 
+attack、攻撃者
+attacker
+攻略、攻略手段
+exploit
+サービス妨害攻撃
+DoS attack
+辞書攻撃
+dictionary attack
+修正プログラム
+fix, patch
+守秘性
+confidentiality
+証明書
+certificate
+侵入
+intrusion、侵入者
+intruder
+侵入検知システム
+IDS
+侵入テスト
+penetration test
+スパム
+spam
+脆弱性
+vulnerability
+セキュリティホール
+security hole
+ソーシャル エンジニアリング
+social engineering
+デジタル署名
+digital signature
+デフォルトアカウント
+default account
+トロイの木馬 
+Trojan horse
+認可
+authorization
+認証
+authentication
+認証局
+認証機関 
+CA
+バウンス攻撃
+bounce attack
+パケットフィルタリング
+packet filtering
+パスワード解析
+password cracking
+バックアップ
+backup
+バックドア
+backdoor
+パッチ
+patch
+バッファオーバーフロー
+buffer overflow
+バッファオーバーラン
+buffer overrun
+パーソナルファイアウォール
+personal firewall
+ファイアウォール
+firewall
+フィックス
+fix
+不正アクセス
+unauthorized access
+ブルートフォース攻撃 
+brute force attack
+分散型サービス妨害攻撃
+DDoS attack
+ペネトレーションテスト
+penetration test
+本人認証
+authentication
+ポートスキャン 
+port scan
+ミスユース検出法
+misuse detection
+迷惑メール 
+UBE
+メール爆撃 
+mail bombing
+要塞ホスト
+bastion host
+リスク
+risk
+ロギング
+logging
+露出
+exposure
+ワーム
+worm
