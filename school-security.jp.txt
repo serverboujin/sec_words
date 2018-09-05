@@ -1,0 +1,106 @@
+アクセス制御
+ウイルス
+virus
+暗号化
+encryption
+ガンブラー
+gumblar
+学校情報セキュリティ推奨仕様
+学校ＤＳＳ
+クロスサイト・スクリプティング
+cross-site scripting
+改ざん
+クラッキング
+cracking
+脅威
+可用性
+完全性
+機密性
+共通鍵暗号方式
+公開鍵暗号方式
+ゲートウェイ
+gateway
+コンプライアンス
+個人情報保護法
+情報セキュリティ
+情報モラル
+情報資産
+サニタイジング
+sanitizing
+スパイウェア
+spyware
+ショルダーハック
+shoulder hack
+ソーシャルエンジニアリング
+social engineering
+脆弱性
+vulnerability
+セキュリティホール
+security hole
+サイバーテロ
+cyber terrorism
+セキュリティインシデント
+security incident
+シングルサインオン
+冗長化
+情報セキュリティ監査
+情報セキュリティポリシー
+トロイの木馬
+trojan
+電子署名
+なりすまし
+認証
+authentication
+ボット
+bot
+フィッシング
+phishing
+ブルートフォースアタック
+bruteforceattack
+バックドア
+back door
+ペネトレーションテスト
+penetration test
+踏み台
+バッファオーバーフロー攻撃
+buffer overflow attack
+ハッキング
+hacking
+バイオメトリクス認証
+biometorics
+復号化
+プロキシ
+proxy
+バックアップ
+backup
+パケットフィルタリング
+packet filtering
+ファイアウォール
+firewall
+プライバシーマーク
+Pマーク
+リスクアセスメント
+risk assessment
+ワーム
+worm
+ワンタイムパスワード
+one time password
+SSID
+service set identifier
+SLA
+service level agreement
+SQLインジェクション
+DoS攻撃
+Denial of Service attack
+HTTPS
+VPN
+virtual private network
+SSL
+secure sockets layer
+IDS
+intrusion detection system
+ISO20000
+ISO27001
+ISMS
+information security management system
+
