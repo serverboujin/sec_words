@@ -10,7 +10,6 @@ AA
 AC
 Access Control
 access control
-access control 
 Access Control List
 Access Control Service
 Access Management Access
