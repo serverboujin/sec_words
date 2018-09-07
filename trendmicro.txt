@@ -1,0 +1,298 @@
+ActiveX Controls
+ActiveXコントロール
+Address Bar Spoofing
+アドレスバー偽装
+Adware
+アドウェア
+Aliases
+エイリアス
+App store
+アプリストア
+Application
+Apps
+アプリケーション
+アプリ
+APT
+advanced persistent threat
+持続的標的型攻撃
+Arrival method
+侵入方法
+Attachment
+添付
+Autorun
+自動実行機能
+Autostart
+Windows起動時の自動実行機能
+Backdoor
+バックドア
+Blacklist
+ブラックリスト
+Blended Threat
+複合型脅威
+Boot Sector Virus
+システム領域感染型
+Bot
+ボット
+Botnet
+ボットネット
+Browser Helper Object
+BHO
+CHM
+Click fraud
+クリック詐欺
+Clickjacking
+クリックジャッキング
+Cloud Computing
+クラウドコンピューティング
+CLSID
+CMOS
+Command and-control server
+C&C server
+C2 server
+Common Malware Enumeration Initiative
+CME Initiative
+マルウェア識別番号制度
+Common Malware Enumeration
+CME
+マルウェア識別番号
+Component
+コンポーネント
+Control Pattern Release
+CPR
+コントロール・パターン・リリース
+Cookies
+Cookie
+クッキー
+Cracking tool
+クラッキングツール
+Crimeware
+クライムウェア
+Cross-site scripting
+XSS
+クロスサイトスクリプティング
+Cybercriminals
+サイバー犯罪者
+Damage Cleanup Engine
+ダメージクリーンナップエンジン
+ダメージクリーンアップエンジン
+DCE
+Damage potential
+ダメージ度
+Data Breach
+データ漏えい
+Data Stealing Malware
+情報収集型マルウェア
+Denial of Service
+DoS
+サービス拒否攻撃
+Destructive
+破壊活動
+Dialers
+ダイヤラ
+ダイアラ
+ダイヤラー
+ダイアラー
+Distributed denial of Service
+DDoS
+分散型サービス拒否攻撃
+distribution potential
+感染力
+DLL
+ダイナミック・リンク・ライブラリ
+Dynamic Link Libraries
+DOC
+Domain Name System
+DNS
+Droppers
+ドロッパー
+Encryption
+Encrypt
+暗号化
+EXE
+Executable and Link Format
+ELF
+Exploit
+脆弱性利用型不正プログラム
+エクスプロイト
+fake app
+偽アプリ
+File Infecting Viruses
+ファイル感染型
+Firewall
+ファイアウォール
+Graymail
+グレーメール
+Grayware
+グレイウェア
+Hacker
+ハッカー
+Hacking tools
+ハッキングツール
+Hacktivism
+ハクティビズム
+Hash values
+ハッシュ値
+Heuristics
+振る舞い検知
+ヒューリスティック検出
+Hoax
+ウイルスデマ情報
+Hyper-Text Transfer Protocol
+HTTP
+Hyper-Text Transfer Protocol Secure
+HTTPS
+Information Exposure
+情報漏えい
+Internet Protocol Address
+IP Address
+IPアドレス
+Internet Relay Chat
+IRC
+In-the-wild
+感染報告の有無
+ICSA
+国際コンピュータセキュリティ協会
+Java Applet
+Javaアプレット
+JavaScript
+Joke programs
+ジョークプログラム
+Keyloggers
+キーロガー
+Machine Learning
+機械学習
+Macro Virus
+マクロ型
+マクロウイルス
+Malvertisement
+不正広告
+Malware
+マルウェア
+Memory resident
+メモリ常駐
+Muling
+運び屋
+Obfuscation
+難読化
+Operating System
+OS
+オペレーティングシステム
+Overall risk rating
+危険度
+Password Cracking Application
+パスワード・クラッキング・アプリケーション
+Pattern File
+パターンファイル
+Payload
+ペイロード
+PDF
+Pharming
+ファーミング
+Phishing
+フィッシング
+Polymorphic virus
+ポリモーフィック型
+ミューテーション型
+Pop-up window
+偽ポップアップ
+Port
+ポート
+Portable executable
+PE
+Potentially Unwanted Application
+PUA
+Proof-of-concept threat
+概念実証型脅威
+Protocol
+プロトコル
+Proxy server
+プロキシサーバ
+Quarantined files
+隔離ファイル
+Ransomware
+ランサムウェア
+身代金要求型マルウェア
+Remote access programs
+リモート・アクセス・プログラム
+リモート・アクセス・ツール
+RAT
+Remote access tools
+Reported infections
+感染確認数
+Rogue antivirus
+偽セキュリティ製品
+Rootkit
+ルートキット
+safe mode
+セーフモード
+Scan engine
+検索エンジン
+Script
+スクリプト
+Search Engine Optimization
+SEO
+検索エンジン最適化
+SIS
+Symbian Installation System
+SMiShing
+スミッシング
+SMS
+Short Message Service
+ショート・メッセージ・サービス
+Social networking
+ソーシャル・ネットワーキング・サイト
+Spam
+スパム
+Spear phishing
+スピアフィッシング
+Spyware
+スパイウェア
+SQL Injection
+SQLインジェクション
+Stealer
+情報収集型ハッキングツール
+Symbian malware
+Symbian
+Symbianマルウェア
+SYS
+システムファイル
+System Restore
+システムの復元
+Targeted Attacks
+標的型攻撃
+Threat
+脅威
+Trackware
+トラックウェア
+Trigger
+トリガー
+United States Computer Emergency Readiness Team
+US-CERT
+米コンピュータ緊急事態対策チーム
+Urban legend
+都市伝説
+Variant
+亜種
+Virus
+ウイルス
+Vishing
+ビッシング
+Vulnerability
+脆弱性
+Website Defacement
+ウェブサイトの書き換え
+Website spoofing
+なりすましWebサイト
+Whale phishing
+Whitelist
+ホワイトリスト
+Whitespace padding
+空白スペース
+Worm
+ワーム
+Zero-day exploits
+ゼロデイ攻撃
+0-day attack
+0-day
+Zero-day
+
