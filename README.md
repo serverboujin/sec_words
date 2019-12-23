@@ -7,10 +7,12 @@
 ## 構成
 - binary/
  - sec_words.dic  MeCab用辞書ファイル
+- memo.md  ただのメモです。気にしないでください（笑）
+- README.md  README
 - src/
  - sec_words*.txt  収集した単語リスト
- - total.txt  単語リスト
  - sec_words.csv  単語リストCSVファイル
+ - total.txt  単語リスト
 
 ## LICENSE
 MIT License
